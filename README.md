@@ -1,23 +1,25 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
 ### Do you want to be a github ninja and commit everyday?
-### Are you too lazy to actually make a commit everyday? 
-### Worry not! 
+### Are you too lazy to actually make a commit everyday?
+### Worry not!
 ### This script will help you add commits to your github profile so the github contributions graph look more green!
 
-How to : 
+ ![A whole lotta green](images/contributions.png)
+
+How to :
 ___
 
-* Dont fork the repo. 
+* Dont fork the repo.
 
 * Download into your system and extract it OR clone it.
 
 * Create a new repo in your github with the name github-lazy-ninja.
 
- - DO NOT initialize with readme. 
- - copy the url provided.
+ - DO NOT initialize with readme.
+ - copy the https url of the newly created git repo.
 
-* Change your date-time settings from automatic to manual.
-
-* Run the following commands after navigating into the directory from the terminal :
+* Run the following commands after navigating into 'github-lazy-ninja' the directory from the terminal :
 
 ```bash
 chmod +x ninja.sh
